@@ -46,6 +46,8 @@ Welcome to this curated collection of open resources designed to assist environm
 ---
 
 ## Literature Reviews on Machine Learning for Environmental Science
+- [Stephan Rasp (Living Review)](https://docs.google.com/spreadsheets/d/1n30zDDjEzlXl5nAGF8uD_dbZWJAamqImQGCZjfOMuDg/edit?gid=0#gid=0): *State-of-the-art in AI-based weather forecasting*.
+- [Tom Beucler (Living Review)](https://github.com/tbeucler/HybridESM): *State-of-the-art in hybrid Earth system modeling*.
 - [Eyring et al. (2024)](https://www.nature.com/articles/s41558-024-02095-y): *Pushing the frontiers in climate modeling and analysis with machine learning*.
 - [Beucler et al. (2021)](https://www.authorea.com/doi/full/10.1002/essoar.10506925.1): *Machine Learning for Clouds and Climate*.
 - [Reichstein et al. (2019)](https://www.nature.com/articles/s41586-019-0912-1): *Deep Learning and Process Understanding for Data-Driven Earth System Science*.
