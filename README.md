@@ -55,6 +55,7 @@ Welcome to this curated collection of open resources designed to assist environm
 - [Bergen et al. (2019)](https://science.sciencemag.org/content/363/6433/eaau0323): *Machine Learning for Data-Driven Discovery in Solid Earth Geoscience*.
 - [Rampal et al. (2024)](https://journals.ametsoc.org/view/journals/aies/3/2/AIES-D-23-0066.1.xml): *Enhancing Regional Climate Downscaling through Advances in Machine Learning*.
 - [Beucler et al. (2024)](https://arxiv.org/abs/2311.13691): *Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications*.
+- [Camps-Valls et al. (2025)](https://www.nature.com/articles/s41467-025-56573-8): *Artificial intelligence for modeling and understanding extreme weather and climate events*.
 - [Bracco et al. (2024)](https://www.nature.com/articles/s42254-024-00776-3): *Machine learning for the physics of climate*.
 - [Eyring et al. (2024)](https://www.nature.com/articles/s41561-024-01527-w): *AI-empowered next-generation multiscale climate modelling for mitigation and adaptation*.
 - [Rolnick et al. (2019)](https://arxiv.org/abs/1906.05433): *Tackling Climate Change with Machine Learning*.
