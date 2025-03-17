@@ -50,6 +50,7 @@ Welcome to this curated collection of open resources designed to assist environm
 - [Tom Beucler (Living Review)](https://github.com/tbeucler/HybridESM): *State-of-the-art in hybrid Earth system modeling*.
 - [Eyring et al. (2024)](https://www.nature.com/articles/s41558-024-02095-y): *Pushing the frontiers in climate modeling and analysis with machine learning*.
 - [Beucler et al. (2021)](https://www.authorea.com/doi/full/10.1002/essoar.10506925.1): *Machine Learning for Clouds and Climate*.
+- [Ullrich et al. (2025)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000496): *Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models*.
 - [Reichstein et al. (2019)](https://www.nature.com/articles/s41586-019-0912-1): *Deep Learning and Process Understanding for Data-Driven Earth System Science*.
 - [Lai et al. (2025)](https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-043024-114758): *Machine Learning for Climate Physics and Simulations*.
 - [Bergen et al. (2019)](https://science.sciencemag.org/content/363/6433/eaau0323): *Machine Learning for Data-Driven Discovery in Solid Earth Geoscience*.
