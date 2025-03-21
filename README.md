@@ -53,6 +53,7 @@ Welcome to this curated collection of open resources designed to assist environm
 - [Ullrich et al. (2025)](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2024JH000496): *Recommendations for comprehensive and independent evaluation of machine learning-based Earth system models*.
 - [Reichstein et al. (2019)](https://www.nature.com/articles/s41586-019-0912-1): *Deep Learning and Process Understanding for Data-Driven Earth System Science*.
 - [Lai et al. (2025)](https://www.annualreviews.org/content/journals/10.1146/annurev-conmatphys-043024-114758): *Machine Learning for Climate Physics and Simulations*.
+- [Reichstein et al. (2025)](https://www.nature.com/articles/s41467-025-57640-w): *Early warning of complex climate risk with integrated artificial intelligence*.
 - [Bergen et al. (2019)](https://science.sciencemag.org/content/363/6433/eaau0323): *Machine Learning for Data-Driven Discovery in Solid Earth Geoscience*.
 - [Rampal et al. (2024)](https://journals.ametsoc.org/view/journals/aies/3/2/AIES-D-23-0066.1.xml): *Enhancing Regional Climate Downscaling through Advances in Machine Learning*.
 - [Beucler et al. (2024)](https://arxiv.org/abs/2311.13691): *Next-Generation Earth System Models: Towards Reliable Hybrid Models for Weather and Climate Applications*.
